@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "acorn-hw-symbols")(type "KiCad")(uri "${KIPRJMOD}/../kicad/acorn-hw-symbols.kicad_sym")(options "")(descr ""))
+)
