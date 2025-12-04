@@ -12,7 +12,7 @@ An overclocking solution for the Acorn A3010 (and A3020/A4000), inspired by [sta
 A SPDT switch may be connected to the header and controls whether the overlock is enabled/disabled.  Its position is latched at power-up (i.e. toggling the switch after power-up is harmless).
 
 - A 50 MHz oscillator will clock the ARM250 and RAM at 16 MHz (requires 60 ns RAM).
-- A 60 MHz oscillator will clock the ARM250 and RAM at 20 MHz (requires 50 ns RAM).
+- A 60 MHz oscillator will clock the ARM250 and RAM at 20 MHz (requires 50 ns RAM, see [A3010 4 MiB RAM Upgrade](/doc/a3010-ram-upgrade.md)).
 
 # Assembly notes
 
