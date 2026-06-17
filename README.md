@@ -9,3 +9,7 @@ Hardware for Acorn RISC OS computers.
 - [A3010 4 MiB RAM Upgrade](/doc/a3010-ram-upgrade.md)
 
   <a href="/doc/a3010-ram-upgrade.md"><img src="/jpeg/a3010-ram-upgrade-front.jpeg" width="480"></a>
+
+- [Acorn USB Mouse](/doc/usb-mouse.md)
+
+  <a href="/doc/usb-mouse.md"><img src="/jpeg/usb-mouse.jpeg" width="480"></a>
